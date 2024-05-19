@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahinalam10
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently working in a software company.
 - 💞️ I’m looking to collaborate on any type of as like programming related
 - 📫 If need just contact me this mail (mshahinalam01@gmail.com)
 
