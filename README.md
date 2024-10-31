@@ -7,12 +7,6 @@ Welcome to my GitHub profile! I am a passionate software engineer with a keen in
 - I have experience in PHP, Laravel, MySQL, JavaScript, Bootstrap, CSS, and HTML.
 - I enjoy solving complex problems and continuously improving my skills.
 
-## 🌱 What I'm Currently Working On
-I am working on various software projects, including:
-- Car Rental Web Application
-- Contact Management Application
-- School Management System
-
 ## 💞️ Collaboration
 I am open to collaborating on any programming-related projects. If you have an interesting idea or need assistance, feel free to reach out!
 
