@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,js,bootstrap,mysql,python,html,css,git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,js,bootstrap,mysql,python,html,css,git,github,vscode,postman" />
 </p>
 
 <p align="center">
@@ -58,7 +58,6 @@
   <img src="https://img.shields.io/badge/-Cloud%20Computing-00C4FF?style=for-the-badge&logo=icloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-API%20Integration-0077FF?style=for-the-badge&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/-AI%20%26%20Data%20Science-0D8ABC?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vue.js%20%26%20React-42B883?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 ---
