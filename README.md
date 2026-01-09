@@ -44,18 +44,18 @@
 
 
 ## 🧠 Professional Philosophy  
-- 🚀 Focused on delivering **clean, reusable, and scalable** solutions.  
-- ⚙️ Constantly learning and improving through **hands-on problem solving.**  
-- 🤝 Believe in **collaboration, clarity, and craftsmanship** in every line of code.  
+- 🚀 Deliver clean, reusable, and scalable solutions. 
+- ⚙️ Learn continuously through hands-on problem solving 
+- 🤝 Value collaboration, clarity, and craftsmanship in all work.  
 
 ---
 
 ## 🧩 Work Values  
 
-💼 **Code with Clarity** → readable, reusable, and review-ready.  
-🌍 **Think System-Wide** → every function affects the whole architecture.  
-🧠 **Design Before You Build** → scalability starts with structure.  
-💬 **Communicate Early** → great software comes from great collaboration.  
+- 💼 Code with Clarity → write readable, reusable, and review-ready code.
+- 🌍 Think System-Wide → consider how every function affects the whole architecture. 
+- 🧠 Design Before You Build → plan for scalability from the start.
+- 💬 Communicate Early → ensure smooth collaboration and prevent misunderstandings.
 
 ---
 
