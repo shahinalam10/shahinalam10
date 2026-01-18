@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FFC371,100:00C4FF&height=150&section=header&animation=fadeIn" />
 
 # 👋 Hey, I'm <span style="color:#00C4FF;">Md. Shahin Alam</span>  
-### 💻 Jr. Software Engineer | 🌐 Full Stack Developer | ⚙️ Problem Solver  
+### 💻 Software Engineer | 🌐 Full Stack Developer | ⚙️ Problem Solver  
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5F6D,00C4FF,FFC371&center=true&vCenter=true&width=800&lines=Building+Scalable+Systems+🚀;Crafting+Modern+Web+Architectures+🧠;Delivering+Clean,+Efficient+Code+💡;PHP+|+Laravel+|+JavaScript+|+MySQL+|+API+Integration" />
 
@@ -15,7 +15,7 @@
 
 ## 🧭 About Me  
 
-🎯 Passion-driven **Jr. Software Engineer** crafting scalable, maintainable web applications.  
+🎯 Passion-driven **Software Engineer** specializing in **Laravel & PHP-based web applications**.  
 🧩 I thrive at the intersection of **technology, design, and innovation.**  
 🧠 Currently exploring **AI, Cloud Deployment, and Advanced Laravel Architectures.**  
 📬 Reach me anytime → **`mshahinalam01@gmail.com`**  
@@ -86,9 +86,11 @@
 ---
 
 <div align="center">
-  
 💡 *“I don’t just write code — I design logic, architecture, and experiences.”*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FFC371,100:00C4FF&height=150&section=footer&animation=fadeIn" />
-
 </div>
+
+---
+
+## 🔎
+Laravel Developer, PHP Developer, Software Engineer, MySQL, JavaScript, API Development, Full Stack Developer, Bangladesh
